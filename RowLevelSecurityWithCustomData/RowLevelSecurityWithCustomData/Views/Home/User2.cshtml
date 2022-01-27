@@ -1,0 +1,21 @@
+﻿@model RowLevelSecurityWithCustomData.Services.EmbeddedReportViewModel;
+
+  <div>
+    <h4>Role: @Model.Role</h4>
+  </div>
+
+  <div id="content-box">
+    <div id="embed-container"></div>
+  </div>
+
+
+  @section Scripts {
+    <script>
+    var viewModel = {
+      reportId: "@Model.Id",
+      embedUrl: "@Model.EmbedUrl",
+      token: "@Model.Token"
+    };
+    </script>
+    <script src="~/js/app.js"></script>
+  }

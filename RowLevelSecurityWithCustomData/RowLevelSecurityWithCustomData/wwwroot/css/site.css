@@ -1,0 +1,127 @@
+﻿/* App-Owns-Data Lab Styles from Power BI Dev Camp */
+
+
+.navbar-brand {
+  border: 1px solid FEFEFE;
+  padding: 2px;
+  padding-left: 8px;
+  padding-right: 8px;
+  margin: 0px;
+  font-size: 1.5em;
+  font-family: 'Lucida Console';
+  line-height: 1.0em;
+}
+
+
+#content-box {
+  padding-left: 0;
+  padding-right: 0;
+  border: solid 1px #CCCCCC;
+}
+
+
+#embed-toolbar .nav-item a.nav-link {
+  background-color: #E0E0E0;
+  opacity: 0.75;
+  border-radius: 8px;
+  min-width: 64px;
+  padding: 4px;
+  padding-left: 6px;
+  padding-right: 6px;
+  text-align: center;
+  font-size: 0.7em;
+  font-weight: bold;
+  margin: 0px;
+  margin-left: 8px;
+}
+
+#embed-toolbar .nav-item a.nav-link:hover {
+  background-color: lightsalmon;
+}
+
+
+#embed-container {
+  min-height: 480px;
+  height: 600px;
+}
+
+
+#left-nav {
+  background-color: black;
+  color: white;
+  padding: 0;
+  border: 1px solid black;
+}
+
+  #left-nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
+
+  #left-nav ul i {
+    padding-right: 4px;
+  }
+
+  #left-nav .navbar-header {
+    color: black;
+    background-color: #EDBE11;
+    padding: 2px;
+    padding-left: 4px;
+    border-bottom: 1px solid #333333;
+    font-size: 14px;
+  }
+
+  #left-nav .nav-item {
+    background-color: white;
+    padding: 2px;
+    padding-left: 4px;  
+    border-bottom: 1px solid #333333;
+    font-size: 14px;
+  }
+
+  #left-nav .nav-item:hover {
+    background-color: lightsalmon;
+  }
+
+  #left-nav a.nav-link {
+    padding: 2px;
+    margin: 0px;
+  }
+
+  #left-nav .nav-item a {
+    color: black;
+  }
+
+
+
+
+#left-nav .navbar-collapse, #left-nav .dropdown {
+  background-color: white;
+  color: black;
+  padding: 8px;
+  font-size: 12px;
+  border-bottom: 1px solid #333333;
+}
+
+#left-nav .navbar-collapse {
+  padding: 8px;
+}
+
+#left-nav .dropdown {
+  padding: 0px;
+}
+
+  #left-nav .dropdown button {
+    margin: 0px;
+    padding: 4px;
+    width: 100%;
+    text-align: left;
+  }
+
+
+
+#embed-toolbar .nav-item {
+}
+
+

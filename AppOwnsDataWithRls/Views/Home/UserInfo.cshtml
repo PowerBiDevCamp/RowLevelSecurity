@@ -1,0 +1,30 @@
+﻿@using System.Security.Principal
+
+@{ 
+  var groupLookup = new Dictionary<string, string>() {
+    { "9cb0f004-d036-4797-9039-52917b048a57", "Report Customizers" },
+    { "7bb3a4a4-62fa-4070-b75e-d74e8a5630c6", "RLS: Central Region" },
+    { "7341a19a-ce03-4aa2-82c7-cf880639eb85", "RLS: Eastern Region" },
+    { "fcd9ac74-b9c9-4ec0-8b5c-020d098262b7", "RLS: Western Region" }
+  };
+}
+
+<h3>User Info</h3>
+
+<table class="table table-bordered table-striped table-sm">
+  <tr><td>User Name</td><td>@User.Identity.Name</td></tr>
+  <tr><td>Display Name</td><td>@User.FindFirst("name").Value</td></tr>
+</table>
+
+<hr/>
+
+<h3>Azure AD Group Membership</h3>
+
+<table class="table table-bordered table-striped table-sm">
+  <tr><th>Azure AD Group</th><th>Claim Type</th><th>Claim Value</th></tr>
+  @foreach (var claim in User.Claims) {
+    @if ((claim.Type == "groups") && groupLookup.ContainsKey(claim.Value)) {
+      <tr><td>@groupLookup[claim.Value]</td><td>@claim.Type</td><td>@claim.Value</td></tr>
+    }
+  }
+</table>

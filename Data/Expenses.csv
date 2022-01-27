@@ -1,0 +1,138 @@
+﻿Expense,Category,Date,Amount
+Google Ad Words,Marketing,2017-01-15 00:00:00,$428.32
+Google Ad Words,Marketing,2017-02-15 00:00:00,$412.23
+Google Ad Words,Marketing,2017-03-15 00:00:00,$540.22
+Google Ad Words,Marketing,2017-04-15 00:00:00,$560.22
+Google Ad Words,Marketing,2017-05-15 00:00:00,$889.02
+Google Ad Words,Marketing,2017-06-15 00:00:00,$1420.22
+Google Ad Words,Marketing,2017-07-15 00:00:00,$2123.45
+Google Ad Words,Marketing,2017-08-15 00:00:00,$3245.34
+Google Ad Words,Marketing,2017-09-15 00:00:00,$500
+Google Ad Words,Marketing,2017-10-15 00:00:00,$500
+Google Ad Words,Marketing,2017-11-15 00:00:00,$500
+Google Ad Words,Marketing,2017-12-15 00:00:00,$500
+TV Advertisements - East Coast,Marketing,2017-01-21 00:00:00,$400
+TV Advertisements - East Coast,Marketing,2017-02-13 00:00:00,$700
+TV Advertisements - East Coast,Marketing,2017-03-17 00:00:00,$400
+TV Advertisements - East Coast,Marketing,2017-04-16 00:00:00,$700
+TV Advertisements - East Coast,Marketing,2017-05-14 00:00:00,$600
+TV Advertisements - East Coast,Marketing,2017-06-11 00:00:00,$600
+TV Advertisements - East Coast,Marketing,2017-07-16 00:00:00,$400
+TV Advertisements - East Coast,Marketing,2017-08-14 00:00:00,$700
+TV Advertisements - East Coast,Marketing,2017-09-13 00:00:00,$700
+TV Advertisements - East Coast,Marketing,2017-10-12 00:00:00,$600
+TV Advertisements - East Coast,Marketing,2017-11-23 00:00:00,$700
+TV Advertisements - East Coast,Marketing,2017-12-10 00:00:00,$500
+TV Advertisements - West Coast,Marketing,2017-01-10 00:00:00,$300
+TV Advertisements - West Coast,Marketing,2017-02-13 00:00:00,$300
+TV Advertisements - West Coast,Marketing,2017-03-19 00:00:00,$300
+TV Advertisements - West Coast,Marketing,2017-04-21 00:00:00,$300
+TV Advertisements - West Coast,Marketing,2017-05-24 00:00:00,$400
+TV Advertisements - West Coast,Marketing,2017-06-14 00:00:00,$300
+TV Advertisements - West Coast,Marketing,2017-07-14 00:00:00,$400
+TV Advertisements - West Coast,Marketing,2017-08-12 00:00:00,$400
+TV Advertisements - West Coast,Marketing,2017-09-13 00:00:00,$300
+TV Advertisements - West Coast,Marketing,2017-10-17 00:00:00,$300
+TV Advertisements - West Coast,Marketing,2017-11-24 00:00:00,$400
+TV Advertisements - West Coast,Marketing,2017-12-14 00:00:00,$300
+Cleaning Supplies,Office Supplies,2017-02-15 00:00:00,$268.45
+Cleaning Supplies,Office Supplies,2017-04-15 00:00:00,$414.45
+Cleaning Supplies,Office Supplies,2017-06-15 00:00:00,$525.9
+Cleaning Supplies,Office Supplies,2017-08-15 00:00:00,$389.08
+Cleaning Supplies,Office Supplies,2017-10-15 00:00:00,$478.34
+Cleaning Supplies,Office Supplies,2017-12-15 00:00:00,$812.3
+Coffee Supplies,Office Supplies,2017-01-25 00:00:00,$840.25
+Coffee Supplies,Office Supplies,2017-03-03 00:00:00,$122.5
+Coffee Supplies,Office Supplies,2017-04-05 00:00:00,$120.25
+Coffee Supplies,Office Supplies,2017-06-07 00:00:00,$120.25
+Coffee Supplies,Office Supplies,2017-08-08 00:00:00,$122.5
+Coffee Supplies,Office Supplies,2017-09-05 00:00:00,$132
+Coffee Supplies,Office Supplies,2017-10-02 00:00:00,$132
+Coffee Supplies,Office Supplies,2017-12-01 00:00:00,$132
+Office chairs,Office Supplies,2017-02-07 00:00:00,$1800
+Office chairs,Office Supplies,2017-09-15 00:00:00,$800
+Pencils & Paper clips,Office Supplies,2017-01-15 00:00:00,$68.45
+Postage Stamps,Office Supplies,2017-01-30 00:00:00,$340
+Postage Stamps,Office Supplies,2017-04-03 00:00:00,$142
+Postage Stamps,Office Supplies,2017-07-05 00:00:00,$224
+Postage Stamps,Office Supplies,2017-10-10 00:00:00,$148
+Printer Paper,Office Supplies,2017-01-30 00:00:00,$480
+Printer Paper,Office Supplies,2017-03-30 00:00:00,$72
+Printer Paper,Office Supplies,2017-05-30 00:00:00,$80
+Printer Paper,Office Supplies,2017-07-30 00:00:00,$82
+Printer Paper,Office Supplies,2017-09-30 00:00:00,$60
+Printer Paper,Office Supplies,2017-11-30 00:00:00,$80
+Printer Paper,Office Supplies,2017-12-20 00:00:00,$82
+Toner Cartridges for Printer,Office Supplies,2017-03-07 00:00:00,$3200
+Toner Cartridges for Printer,Office Supplies,2017-05-01 00:00:00,$1200
+Toner Cartridges for Printer,Office Supplies,2017-07-30 00:00:00,$1200
+Toner Cartridges for Printer,Office Supplies,2017-10-20 00:00:00,$1620
+Cleaning Service,Operations,2017-01-10 00:00:00,$1200
+Cleaning Service,Operations,2017-02-14 00:00:00,$1200
+Cleaning Service,Operations,2017-03-13 00:00:00,$1200
+Cleaning Service,Operations,2017-04-13 00:00:00,$1200
+Cleaning Service,Operations,2017-05-12 00:00:00,$1200
+Cleaning Service,Operations,2017-06-12 00:00:00,$1200
+Cleaning Service,Operations,2017-07-10 00:00:00,$1200
+Cleaning Service,Operations,2017-08-13 00:00:00,$1200
+Cleaning Service,Operations,2017-09-13 00:00:00,$1200
+Cleaning Service,Operations,2017-10-14 00:00:00,$1200
+Cleaning Service,Operations,2017-11-13 00:00:00,$1200
+Cleaning Service,Operations,2017-12-10 00:00:00,$1200
+Electricity Bill,Operations,2017-01-04 00:00:00,$338
+Electricity Bill,Operations,2017-02-05 00:00:00,$255
+Electricity Bill,Operations,2017-03-06 00:00:00,$275
+Electricity Bill,Operations,2017-04-05 00:00:00,$294
+Electricity Bill,Operations,2017-05-04 00:00:00,$251
+Electricity Bill,Operations,2017-06-03 00:00:00,$269
+Electricity Bill,Operations,2017-07-03 00:00:00,$364
+Electricity Bill,Operations,2017-08-06 00:00:00,$344
+Electricity Bill,Operations,2017-09-05 00:00:00,$322
+Electricity Bill,Operations,2017-10-03 00:00:00,$289
+Electricity Bill,Operations,2017-11-06 00:00:00,$345
+Electricity Bill,Operations,2017-12-06 00:00:00,$341
+Verizon - Telephone and Internet,Operations,2017-01-01 00:00:00,$923
+Verizon - Telephone and Internet,Operations,2017-02-02 00:00:00,$785
+Verizon - Telephone and Internet,Operations,2017-03-01 00:00:00,$896
+Verizon - Telephone and Internet,Operations,2017-04-02 00:00:00,$925
+Verizon - Telephone and Internet,Operations,2017-05-02 00:00:00,$922
+Verizon - Telephone and Internet,Operations,2017-06-02 00:00:00,$946
+Verizon - Telephone and Internet,Operations,2017-07-02 00:00:00,$793
+Verizon - Telephone and Internet,Operations,2017-08-01 00:00:00,$939
+Verizon - Telephone and Internet,Operations,2017-09-02 00:00:00,$856
+Verizon - Telephone and Internet,Operations,2017-10-01 00:00:00,$852
+Verizon - Telephone and Internet,Operations,2017-11-01 00:00:00,$785
+Verizon - Telephone and Internet,Operations,2017-12-01 00:00:00,$968
+Water and City Utilities,Operations,2017-01-15 00:00:00,$126
+Water and City Utilities,Operations,2017-02-15 00:00:00,$124
+Water and City Utilities,Operations,2017-03-15 00:00:00,$124
+Water and City Utilities,Operations,2017-04-15 00:00:00,$126
+Water and City Utilities,Operations,2017-05-15 00:00:00,$125
+Water and City Utilities,Operations,2017-06-15 00:00:00,$123
+Water and City Utilities,Operations,2017-07-15 00:00:00,$127
+Water and City Utilities,Operations,2017-08-15 00:00:00,$123
+Water and City Utilities,Operations,2017-09-15 00:00:00,$122
+Water and City Utilities,Operations,2017-10-15 00:00:00,$125
+Water and City Utilities,Operations,2017-11-15 00:00:00,$122
+Water and City Utilities,Operations,2017-12-15 00:00:00,$122
+Azure HDInsight Subscription,Research & Development,2017-01-15 00:00:00,$420
+Azure HDInsight Subscription,Research & Development,2017-02-15 00:00:00,$500
+Azure HDInsight Subscription,Research & Development,2017-03-15 00:00:00,$430
+Azure HDInsight Subscription,Research & Development,2017-04-15 00:00:00,$470
+Azure HDInsight Subscription,Research & Development,2017-05-15 00:00:00,$550
+Azure HDInsight Subscription,Research & Development,2017-06-15 00:00:00,$530
+Azure HDInsight Subscription,Research & Development,2017-07-15 00:00:00,$560
+Azure HDInsight Subscription,Research & Development,2017-08-15 00:00:00,$540
+Azure HDInsight Subscription,Research & Development,2017-09-15 00:00:00,$420
+Azure HDInsight Subscription,Research & Development,2017-10-15 00:00:00,$550
+Azure HDInsight Subscription,Research & Development,2017-11-15 00:00:00,$560
+Azure HDInsight Subscription,Research & Development,2017-12-15 00:00:00,$440
+Linux Server,Research & Development,2017-11-15 00:00:00,$1450
+Linux Server,Research & Development,2017-11-18 00:00:00,$1450
+Linux Turbo Server,Research & Development,2017-12-10 00:00:00,$3200
+Scientific Calculators,Research & Development,2017-03-11 00:00:00,$240
+Scientific Calculators,Research & Development,2017-09-15 00:00:00,$430
+Toy Stress Tester,Research & Development,2017-02-15 00:00:00,$780
+Toy Stress Tester,Research & Development,2017-05-01 00:00:00,$780
+Toy Stress Tester,Research & Development,2017-08-15 00:00:00,$850
+Toy Stress Tester,Research & Development,2017-09-10 00:00:00,$850

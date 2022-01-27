@@ -1,0 +1,24 @@
+@model AppOwnsData.Services.EmbeddedReportViewModel;
+
+@if (Model.CustomizationEnabled) {
+<div id="toolbar" class="btn-toolbar" role="toolbar" >
+  <button type="button" id="toggleEdit" class="btn btn-sm">Toggle Edit Mode</button>
+  <button type="button" id="fullScreen" class="btn btn-sm">Full Screen</button>
+</div>
+}
+
+
+<div id="embed-container"></div>
+
+@section Scripts {
+  <script src="https://cdn.jsdelivr.net/npm/powerbi-client@2.13.3/dist/powerbi.min.js"></script>
+  <script>
+    var viewModel = {
+      reportId: "@Model.Id",
+      embedUrl: "@Model.EmbedUrl",
+      token: "@Model.Token",
+      customizationEnabled: "@Model.CustomizationEnabled"
+    };
+  </script>
+  <script src="~/js/embed.js"></script>
+}
